@@ -1,36 +1,38 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 🚀 Zocket Task Management System  
 
-## Getting Started
+A **Task Management System** that enables users to **sign up, log in, create, update, and delete tasks** efficiently.  
 
-First, run the development server:
+## 📌 Tech Stack  
+- **Frontend:** Next.js (React)
+- **Language:** TypeScript  
+- **Styling:** Tailwind CSS  
+- **Authentication:** JWT (JSON Web Token)  
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+---
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 🔥 Features  
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+### ✅ **Frontend**  
+- **Login & Signup:** User authentication using JWT  
+- **Dashboard:** Displays assigned tasks  
+- **Task Actions:** Users can update, modify, and delete tasks  
+- **Next.js Integration:** Optimized performance with server-side rendering  
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+---
 
-## Learn More
+## ❗ Challenges & Learnings  
 
-To learn more about Next.js, take a look at the following resources:
+As a **MERN stack developer**, this project was my first hands-on experience with **Golang and Next.js**. Despite facing challenges, especially in AI-based task suggestions and deployment, it was a **great learning experience** that helped me explore new technologies.  
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+---
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## ⚠️ Current Limitations & Next Steps  
+- **AI Integration Failed:** The AI-powered task suggestion feature was not successfully implemented.  
+- **Hosting Issues:** Deployment challenges need to be resolved for production use.  
 
-## Deploy on Vercel
+---
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## 🎯 Conclusion  
+This project was a great opportunity to step outside my comfort zone, and I’m **excited about the possibility of working at Zocket**! 🚀  
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+---
